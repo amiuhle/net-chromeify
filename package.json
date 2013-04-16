@@ -1,0 +1,9 @@
+{ "name" :            "net-browserify"
+, "description" :     "Node.JS net for chrome apps"
+, "version" :         "0.1.0"
+, "devDependencies": {
+  }
+, "main":             "./lib/net/index"
+, "browser":          "./lib/net/index"
+, "directories" :   { "lib" : "./lib/net" }
+}
