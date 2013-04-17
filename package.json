@@ -3,7 +3,7 @@
 , "version" :         "0.1.0"
 , "devDependencies": {
   }
-, "main":             "./lib/net/index"
-, "browser":          "./lib/net/index"
+, "main":             "./lib/net"
+, "browser":          "./lib/net"
 , "directories" :     { "lib" : "./lib/net" }
 }
